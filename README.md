@@ -329,13 +329,7 @@ complements the data backbone rather than competing with it.
 
 ---
 
-## Documentation
 
-| Document | Contents |
-| --- | --- |
-| [docs/SETUP.md](docs/SETUP.md) | Installation, Docker, database, troubleshooting |
-| [docs/SECURITY.md](docs/SECURITY.md) | RBAC, encryption, audit, trust boundary |
-| [docker/README.md](docker/README.md) | Container stack reference |
 
 ## License
 
